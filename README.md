@@ -1,4 +1,4 @@
-# Quiz-War-
+#  Interactive Quiz Program with Timed Questions 🧠⏱️
 This Python program is an engaging quiz application that challenges users with multiple-choice questions. It includes a time limit for each question to keep the experience dynamic and exciting. Ideal for learning, fun, and competitive play!
 
 Features:
